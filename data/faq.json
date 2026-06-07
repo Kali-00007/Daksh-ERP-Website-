@@ -1,0 +1,234 @@
+[
+  {
+    "category": "General",
+    "question": "What is Daksh ERP?",
+    "answer": "Daksh ERP is an offline-first Indian business management software designed for billing, sales, purchase, inventory, accounting, GST compliance, backup and business intelligence workflows."
+  },
+  {
+    "category": "General",
+    "question": "Who can use Daksh ERP?",
+    "answer": "Daksh ERP is suitable for retailers, wholesalers, traders, distributors, accountants, GST practitioners and small to medium businesses that require organized business records and connected workflows."
+  },
+  {
+    "category": "General",
+    "question": "Is Daksh ERP easy to learn?",
+    "answer": "Daksh ERP is designed around modern workflow principles with the goal of keeping professional business controls available while reducing unnecessary complexity for daily users."
+  },
+  {
+    "category": "General",
+    "question": "Does Daksh ERP require internet access?",
+    "answer": "No. Daily business operations are designed to work without mandatory internet connectivity. Internet may only be needed for updates, support communication or future optional online services."
+  },
+  {
+    "category": "General",
+    "question": "Where is business data stored?",
+    "answer": "Business data is stored locally on the user's system. Daksh ERP follows an offline-first approach focused on local data ownership and control."
+  },
+
+  {
+    "category": "Installation",
+    "question": "Which operating systems are supported?",
+    "answer": "Daksh ERP is designed for Microsoft Windows environments and is recommended for Windows 10 and Windows 11 systems."
+  },
+  {
+    "category": "Installation",
+    "question": "Does Daksh ERP need a separate database server?",
+    "answer": "No. Daksh ERP uses a local SQLite database architecture and does not require a separate database server for standard installations."
+  },
+  {
+    "category": "Installation",
+    "question": "Can Daksh ERP be installed on a single computer?",
+    "answer": "Yes. Daksh ERP is designed to work efficiently on standalone business systems."
+  },
+  {
+    "category": "Installation",
+    "question": "Is the installer included on the website?",
+    "answer": "Yes. The website download section is designed to distribute installation packages and future updates."
+  },
+
+  {
+    "category": "Offline Usage",
+    "question": "Can I create invoices without internet?",
+    "answer": "Yes. Invoice creation, printing and most daily workflows are designed to function offline."
+  },
+  {
+    "category": "Offline Usage",
+    "question": "Can I access inventory without internet?",
+    "answer": "Yes. Inventory management and reporting are part of the offline-first architecture."
+  },
+  {
+    "category": "Offline Usage",
+    "question": "Can I view reports offline?",
+    "answer": "Yes. Business reports are designed to be generated directly from local business data."
+  },
+
+  {
+    "category": "Invoices",
+    "question": "Which invoice formats are supported?",
+    "answer": "Daksh ERP supports A4 invoices, A5 invoices, 3 inch thermal invoices and 4 inch thermal invoices."
+  },
+  {
+    "category": "Invoices",
+    "question": "Can I print GST invoices?",
+    "answer": "Yes. Daksh ERP supports GST-compliant invoice workflows with tax calculations and GST information display."
+  },
+  {
+    "category": "Invoices",
+    "question": "Does Daksh ERP support quotations?",
+    "answer": "Yes. Professional quotation workflows are included."
+  },
+  {
+    "category": "Invoices",
+    "question": "Does Daksh ERP support proforma invoices?",
+    "answer": "Yes. Proforma invoice workflows are available for businesses that require pre-sale documentation."
+  },
+  {
+    "category": "Invoices",
+    "question": "Does Daksh ERP support delivery challans?",
+    "answer": "Yes. Delivery challan workflows are supported."
+  },
+  {
+    "category": "Invoices",
+    "question": "Does Daksh ERP support credit notes?",
+    "answer": "Yes. Credit note workflows are available with connected accounting and stock considerations."
+  },
+  {
+    "category": "Invoices",
+    "question": "Does Daksh ERP support debit notes?",
+    "answer": "Yes. Debit note workflows are included."
+  },
+  {
+    "category": "Invoices",
+    "question": "Can I add my business logo?",
+    "answer": "Yes. Invoice templates support company branding through logo placement."
+  },
+  {
+    "category": "Invoices",
+    "question": "Can I add a signature or stamp?",
+    "answer": "Yes. Signature and stamp display options are supported in invoice templates."
+  },
+  {
+    "category": "Invoices",
+    "question": "Can I add bank details to invoices?",
+    "answer": "Yes. Invoice templates can display bank information for payment collection."
+  },
+  {
+    "category": "Invoices",
+    "question": "Does Daksh ERP support UPI QR codes?",
+    "answer": "Yes. UPI QR functionality is available when valid payment information is configured."
+  },
+  {
+    "category": "Invoices",
+    "question": "Are multiple invoice designs available?",
+    "answer": "Yes. Daksh ERP includes multiple invoice template styles and supports different print formats."
+  },
+
+  {
+    "category": "Sales",
+    "question": "Does Daksh ERP track customer outstanding balances?",
+    "answer": "Yes. Customer outstanding visibility is integrated with sales and accounting workflows."
+  },
+  {
+    "category": "Sales",
+    "question": "Is a sales register available?",
+    "answer": "Yes. Sales register reports help businesses review invoices and transaction history."
+  },
+  {
+    "category": "Sales",
+    "question": "Can sales transactions update inventory?",
+    "answer": "Yes. Sales workflows are designed to connect with inventory records."
+  },
+  {
+    "category": "Sales",
+    "question": "Can sales transactions create accounting entries?",
+    "answer": "Yes. Connected accounting workflows help synchronize sales and financial records."
+  },
+
+  {
+    "category": "Purchase",
+    "question": "Does Daksh ERP support purchase invoices?",
+    "answer": "Yes. Purchase invoice workflows are included."
+  },
+  {
+    "category": "Purchase",
+    "question": "Can purchase transactions update stock?",
+    "answer": "Yes. Purchase entries can increase inventory records through connected workflows."
+  },
+  {
+    "category": "Purchase",
+    "question": "Can supplier balances be tracked?",
+    "answer": "Yes. Supplier outstanding tracking is available."
+  },
+  {
+    "category": "Purchase",
+    "question": "Is a purchase register available?",
+    "answer": "Yes. Purchase registers and reports are included."
+  },
+
+  {
+    "category": "Inventory",
+    "question": "Does Daksh ERP include an Item Master?",
+    "answer": "Yes. Item Master functionality is included for inventory management."
+  },
+  {
+    "category": "Inventory",
+    "question": "Does Daksh ERP include an HSN Master?",
+    "answer": "Yes. HSN management is available for GST-oriented businesses."
+  },
+  {
+    "category": "Inventory",
+    "question": "Can stock movement be tracked?",
+    "answer": "Yes. Inventory workflows maintain stock movement visibility."
+  },
+  {
+    "category": "Inventory",
+    "question": "Can I view stock reports?",
+    "answer": "Yes. Inventory reports are available to review stock status and activity."
+  },
+
+  {
+    "category": "Accounting",
+    "question": "Does Daksh ERP support accounting?",
+    "answer": "Yes. Daksh ERP includes a connected accounting engine with vouchers, ledgers and financial reports."
+  },
+  {
+    "category": "Accounting",
+    "question": "Which vouchers are supported?",
+    "answer": "Receipt, Payment, Contra, Journal and Expense voucher workflows are supported."
+  },
+  {
+    "category": "Accounting",
+    "question": "Does Daksh ERP provide a Day Book?",
+    "answer": "Yes. Day Book reporting is included."
+  },
+  {
+    "category": "Accounting",
+    "question": "Does Daksh ERP provide a Cash Book?",
+    "answer": "Yes. Cash Book reporting is available."
+  },
+  {
+    "category": "Accounting",
+    "question": "Does Daksh ERP provide a Bank Book?",
+    "answer": "Yes. Bank Book reporting is included."
+  },
+  {
+    "category": "Accounting",
+    "question": "Can I view ledger statements?",
+    "answer": "Yes. Detailed ledger statements are available."
+  },
+  {
+    "category": "Accounting",
+    "question": "Does Daksh ERP support Trial Balance?",
+    "answer": "Yes. Trial Balance reporting is supported."
+  },
+  {
+    "category": "Accounting",
+    "question": "Does Daksh ERP support Profit & Loss statements?",
+    "answer": "Yes. Profit and Loss reporting is available."
+  },
+  {
+    "category": "Accounting",
+    "question": "Does Daksh ERP support Balance Sheet reporting?",
+    "answer": "Yes. Balance Sheet reports are supported."
+  }
+]
