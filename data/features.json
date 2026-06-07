@@ -1,0 +1,336 @@
+[
+  {
+    "id": "billing-sales",
+    "title": "Billing & Sales",
+    "icon": "🧾",
+    "short_description": "Create GST-ready sales documents with connected inventory, accounting, GST and outstanding workflows.",
+    "purpose": "The Billing & Sales module helps businesses create professional GST-compliant documents while keeping customer balances, stock, accounting and GST records connected.",
+    "capabilities": [
+      "GST Tax Invoice",
+      "Quotation",
+      "Proforma Invoice",
+      "Delivery Challan",
+      "Credit Note",
+      "Debit Note",
+      "Customer Outstanding",
+      "Sales Register",
+      "Sales Reports",
+      "Audit-safe cancellation workflow"
+    ],
+    "benefits": [
+      "Reduces duplicate data entry",
+      "Keeps sales records organized",
+      "Improves customer balance visibility",
+      "Supports GST-ready documentation",
+      "Connects invoices with inventory and accounting"
+    ],
+    "workflow": [
+      "Create Sales Document",
+      "Update Customer Balance",
+      "Update Stock",
+      "Post Accounting Entry",
+      "Prepare GST Data"
+    ]
+  },
+  {
+    "id": "invoice-design-studio",
+    "title": "Invoice Design Studio",
+    "icon": "🎨",
+    "short_description": "Professional invoice templates for A4, A5, 3 inch thermal and 4 inch thermal printing.",
+    "purpose": "Daksh ERP provides a flexible invoice design ecosystem so every business can print documents that match its workflow and brand identity.",
+    "capabilities": [
+      "A4 Invoice Layouts",
+      "A5 Invoice Layouts",
+      "3 Inch Thermal Printing",
+      "4 Inch Thermal Printing",
+      "Standard GST Template",
+      "Premium Corporate Template",
+      "Modern Sidebar Template",
+      "Designer Texture Template",
+      "Logo Support",
+      "Signature Support",
+      "Bank Details",
+      "UPI QR Code",
+      "Terms and Conditions",
+      "FY-wise Numbering"
+    ],
+    "benefits": [
+      "Supports different business print needs",
+      "Creates professional customer-facing documents",
+      "Improves brand presentation",
+      "Supports retail and detailed GST billing",
+      "Keeps invoice numbering structured by financial year"
+    ],
+    "workflow": [
+      "Choose Template",
+      "Set Print Format",
+      "Add Branding",
+      "Configure QR / Bank Details",
+      "Print or Export"
+    ]
+  },
+  {
+    "id": "purchase-management",
+    "title": "Purchase Management",
+    "icon": "🛒",
+    "short_description": "Record supplier invoices with stock, accounting, GST input and payable tracking.",
+    "purpose": "The Purchase module helps businesses record supplier bills and automatically connect them with stock, supplier outstanding, GST input and accounting workflows.",
+    "capabilities": [
+      "Purchase Invoice Entry",
+      "Supplier Master Integration",
+      "Stock Inward",
+      "GST Input Capture",
+      "Supplier Outstanding",
+      "Supplier Payment Workflow",
+      "Purchase Register",
+      "Purchase Reports",
+      "Cancellation with Reason",
+      "Accounting Reversal Concept"
+    ],
+    "benefits": [
+      "Maintains accurate supplier records",
+      "Improves purchase visibility",
+      "Connects stock inward with supplier invoices",
+      "Supports ITC tracking",
+      "Keeps accounting records structured"
+    ],
+    "workflow": [
+      "Record Purchase Invoice",
+      "Increase Stock",
+      "Capture GST Input",
+      "Update Supplier Ledger",
+      "Post Accounting Entry"
+    ]
+  },
+  {
+    "id": "inventory-control",
+    "title": "Inventory Control",
+    "icon": "📦",
+    "short_description": "Track items, HSN, stock movement, valuation and inventory reports through connected transactions.",
+    "purpose": "Inventory Control helps businesses maintain item records, track stock movement and understand inventory status from sales, purchase and adjustment workflows.",
+    "capabilities": [
+      "Item Master",
+      "HSN Master",
+      "Unit / UQC Support",
+      "Barcode-ready Item Records",
+      "Stock Movement",
+      "Stock Adjustment",
+      "Reorder Visibility",
+      "Stock Valuation",
+      "Inventory Reports",
+      "Sales and Purchase Integration"
+    ],
+    "benefits": [
+      "Improves stock accuracy",
+      "Connects stock with real business transactions",
+      "Supports item-wise reporting",
+      "Helps identify low stock and movement trends",
+      "Reduces manual stock tracking effort"
+    ],
+    "workflow": [
+      "Create Item",
+      "Assign HSN / Unit",
+      "Record Purchase or Sale",
+      "Update Movement",
+      "Review Stock Reports"
+    ]
+  },
+  {
+    "id": "accounting-engine",
+    "title": "Accounting Engine",
+    "icon": "📘",
+    "short_description": "Connected accounting with vouchers, ledgers, books and financial reports.",
+    "purpose": "The Accounting Engine connects billing, purchases, payments and journals so business records can flow into ledgers and financial reports.",
+    "capabilities": [
+      "Receipt Voucher",
+      "Payment Voucher",
+      "Contra Voucher",
+      "Journal Voucher",
+      "Expense Voucher",
+      "Day Book",
+      "Cash Book",
+      "Bank Book",
+      "Ledger Statement",
+      "Trial Balance",
+      "Profit & Loss",
+      "Balance Sheet",
+      "Customer Outstanding",
+      "Supplier Outstanding",
+      "Aging Visibility"
+    ],
+    "benefits": [
+      "Creates structured accounting visibility",
+      "Helps accountants review business records",
+      "Connects business operations with ledgers",
+      "Improves financial reporting",
+      "Supports audit-friendly workflows"
+    ],
+    "workflow": [
+      "Business Transaction",
+      "Voucher Posting",
+      "Ledger Update",
+      "Book Report",
+      "Financial Statement"
+    ]
+  },
+  {
+    "id": "gst-compliance",
+    "title": "GST Compliance",
+    "icon": "🛡️",
+    "short_description": "GST calculation, HSN reporting, GST visibility and filing-ready workflows.",
+    "purpose": "GST Compliance tools help businesses maintain structured tax records for sales, purchases, HSN summaries and GST review.",
+    "capabilities": [
+      "GST Tax Calculation",
+      "CGST / SGST / IGST Handling",
+      "HSN Summary",
+      "GST Reports",
+      "GSTR-1 Foundation",
+      "GST Validation",
+      "Tax Liability Visibility",
+      "Input Tax Credit Visibility",
+      "GST-ready Document Data"
+    ],
+    "benefits": [
+      "Organizes GST-related records",
+      "Improves tax review confidence",
+      "Supports accountant review",
+      "Connects invoices with GST reports",
+      "Helps maintain filing readiness"
+    ],
+    "workflow": [
+      "Create GST Transaction",
+      "Classify Tax",
+      "Update GST Records",
+      "Review Reports",
+      "Prepare Filing Data"
+    ]
+  },
+  {
+    "id": "gstr-2b-reconciliation",
+    "title": "GSTR-2B Reconciliation",
+    "icon": "🔎",
+    "short_description": "Import 2B Excel, compare purchase records and identify ITC review areas.",
+    "purpose": "The GSTR-2B reconciliation foundation helps accountants compare GST portal data with purchase records and identify missing or risky ITC items.",
+    "capabilities": [
+      "GSTR-2B Excel Import",
+      "Raw Data Preservation",
+      "Purchase Register Matching",
+      "Exact Match Concept",
+      "Partial Match Concept",
+      "Missing in Books Detection",
+      "Missing in 2B Detection",
+      "ITC Risk Visibility",
+      "CA Review Export Concept"
+    ],
+    "benefits": [
+      "Improves ITC review discipline",
+      "Helps detect missing supplier invoices",
+      "Supports accountant reconciliation work",
+      "Reduces manual comparison effort",
+      "Creates structured review data"
+    ],
+    "workflow": [
+      "Import GSTR-2B Excel",
+      "Normalize Records",
+      "Match Purchase Register",
+      "Detect Differences",
+      "Review ITC Risk"
+    ],
+    "status_note": "Reconciliation foundation is available. Advanced reconciliation workflows may continue expanding."
+  },
+  {
+    "id": "executive-dashboard",
+    "title": "Executive Dashboard",
+    "icon": "📊",
+    "short_description": "Business overview with KPIs, alerts, GST visibility, inventory signals and financial health.",
+    "purpose": "The Executive Dashboard gives business owners and managers a quick view of sales, purchase, cashflow, recovery, stock, GST and overall health.",
+    "capabilities": [
+      "Sales Overview",
+      "Purchase Overview",
+      "Cashflow Visibility",
+      "Outstanding Tracking",
+      "GST Visibility",
+      "Inventory Alerts",
+      "Business Health Score",
+      "Quick Action Cards",
+      "Operational Signals"
+    ],
+    "benefits": [
+      "Improves decision visibility",
+      "Highlights business risks",
+      "Helps owners track key numbers",
+      "Reduces dependency on scattered reports",
+      "Supports faster review of daily operations"
+    ],
+    "workflow": [
+      "Collect Module Data",
+      "Calculate KPIs",
+      "Show Alerts",
+      "Display Trends",
+      "Support Decisions"
+    ]
+  },
+  {
+    "id": "backup-data-protection",
+    "title": "Backup & Data Protection",
+    "icon": "💾",
+    "short_description": "Offline-first data control with automatic backup and recovery-ready architecture.",
+    "purpose": "Backup and data protection workflows help businesses keep local data safer and recovery-ready.",
+    "capabilities": [
+      "Offline-first Data Storage",
+      "Local Data Ownership",
+      "Automatic Backup Workflow",
+      "Backup Rotation",
+      "Primary Backup Location",
+      "Secondary Backup Location Concept",
+      "Database Health Check Concept",
+      "Recovery-ready Storage"
+    ],
+    "benefits": [
+      "Reduces risk of accidental data loss",
+      "Keeps business records under user control",
+      "Supports safer testing and updates",
+      "Improves continuity planning",
+      "Builds trust in offline ERP usage"
+    ],
+    "workflow": [
+      "Work Locally",
+      "Save Business Data",
+      "Create Backup",
+      "Rotate Backup",
+      "Recover When Needed"
+    ]
+  },
+  {
+    "id": "ai-business-simulator",
+    "title": "AI Business Simulator",
+    "icon": "🧠",
+    "short_description": "Ask practical what-if questions in Hindi, English or Hinglish and understand business impact.",
+    "purpose": "The AI Business Simulator is designed to help users understand possible business outcomes using ERP data and practical simulation questions.",
+    "capabilities": [
+      "Hindi Questions",
+      "English Questions",
+      "Hinglish Questions",
+      "Profit Impact",
+      "Cashflow Impact",
+      "GST Impact",
+      "Recovery Risk",
+      "Inventory Signals",
+      "Scenario Analysis"
+    ],
+    "benefits": [
+      "Supports practical decision-making",
+      "Makes business data easier to understand",
+      "Helps owners ask natural questions",
+      "Connects data with possible outcomes",
+      "Improves visibility before making decisions"
+    ],
+    "workflow": [
+      "Ask Business Question",
+      "Analyze ERP Data",
+      "Calculate Impact",
+      "Show Risk",
+      "Support Decision"
+    ]
+  }
+]
