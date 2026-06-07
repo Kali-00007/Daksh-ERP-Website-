@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "invoices": "Invoices",
+    "accounting": "Accounting",
+    "intelligence": "Intelligence",
+    "pricing": "Pricing",
+    "download": "Download",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+
+  "cta": {
+    "download": "Download Daksh ERP",
+    "explore": "Explore Features",
+    "documentation": "Read Documentation",
+    "contact": "Contact Support",
+    "demo": "Request Demo"
+  },
+
+  "hero": {
+    "eyebrow": "Intelligent · Connected · Reliable",
+    "title": "Daksh ERP",
+    "tagline": "Where Excellence Meets Intelligence",
+    "description": "A connected ERP ecosystem for billing, purchase, inventory, accounting, GST compliance, dashboards, backup and business intelligence."
+  },
+
+  "home": {
+    "philosophy_title": "Professional enough for accountants. Simple enough for business owners.",
+    "philosophy_text": "Daksh ERP uses a modern workflow-oriented interface to reduce the learning curve and help business owners, staff and accountants work with confidence.",
+    "ux_title": "Designed for Real Users",
+    "ux_subtitle": "A modern interface built around how people actually work every day.",
+    "modules_title": "Core Modules",
+    "modules_subtitle": "Everything needed to run billing, accounting, inventory and GST workflows in one connected system.",
+    "invoice_title": "Create documents that represent your business.",
+    "invoice_text": "Daksh ERP supports professional invoice layouts for A4, A5, 3 inch thermal and 4 inch thermal printing with GST, QR, branding and numbering controls.",
+    "workflow_title": "Operations stay connected",
+    "workflow_text": "Daily transactions flow into inventory, accounting, GST and reports.",
+    "trust_title": "Your business data stays under your control.",
+    "trust_text": "Daksh ERP is designed for local business operations with no mandatory cloud dependency for daily work.",
+    "final_cta_title": "Start with Daksh ERP today.",
+    "final_cta_text": "Download the testing build, review the handbook and explore the connected ERP workflow."
+  },
+
+  "features": {
+    "title": "Everything connected for daily business operations",
+    "subtitle": "Detailed module overview for billing, purchase, inventory, accounting, GST, dashboards, backup and intelligence workflows."
+  },
+
+  "invoices": {
+    "title": "Professional Invoice Design Studio",
+    "subtitle": "Create documents that represent your business.",
+    "formats_title": "Print Formats",
+    "documents_title": "Business Documents",
+    "templates_title": "Template Styles",
+    "controls_title": "Invoice Controls"
+  },
+
+  "accounting": {
+    "title": "Connected Accounting Engine",
+    "subtitle": "Daksh ERP connects business operations with accounting records so sales, purchases and payments can update ledgers and reports in a structured way."
+  },
+
+  "intelligence": {
+    "title": "Business Intelligence & AI Simulator",
+    "subtitle": "Understand business health, risks, cashflow, GST impact and practical what-if scenarios using ERP data."
+  },
+
+  "pricing": {
+    "title": "Simple plans for different business stages",
+    "subtitle": "Choose the edition that matches your current business workflow."
+  },
+
+  "download": {
+    "title": "Download Daksh ERP",
+    "subtitle": "Get the latest testing build, review system requirements and access the future update channel.",
+    "latest_version": "Latest Version",
+    "system_requirements": "System Requirements",
+    "update_channel": "Update Channel"
+  },
+
+  "security": {
+    "title": "Security, Backup & Data Protection",
+    "subtitle": "Offline-first control, local data ownership and recovery-ready backup architecture."
+  },
+
+  "industries": {
+    "title": "Built for Indian Businesses",
+    "subtitle": "Useful for retailers, wholesalers, traders, distributors, accountants, GST practitioners and SMEs."
+  },
+
+  "documentation": {
+    "title": "Daksh ERP Documentation",
+    "subtitle": "Read the product handbook and understand the modules, architecture and workflows."
+  },
+
+  "releases": {
+    "title": "Release Notes",
+    "subtitle": "Track software version history, improvements and update information."
+  },
+
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Clear answers about installation, invoices, accounting, GST, backup, licensing and updates."
+  },
+
+  "contact": {
+    "title": "Contact & Support",
+    "subtitle": "Use the placeholder contact details now and update them later in site configuration."
+  },
+
+  "footer": {
+    "summary": "Offline-first Indian GST ERP for billing, inventory, accounting, GST compliance and business intelligence.",
+    "product": "Product",
+    "resources": "Resources",
+    "company": "Company"
+  }
+}
