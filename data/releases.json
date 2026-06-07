@@ -1,0 +1,27 @@
+[
+  {
+    "version": "1.0.0",
+    "date": "2026-06-07",
+    "title": "Initial Testing Release",
+    "type": "Testing Build",
+    "items": [
+      "Professional GST Billing Foundation",
+      "Invoice Design Studio",
+      "A4 Invoice Support",
+      "A5 Invoice Support",
+      "3 Inch Thermal Printing",
+      "4 Inch Thermal Printing",
+      "Quotation Workflow",
+      "Delivery Challan Workflow",
+      "Credit Note Workflow",
+      "Debit Note Workflow",
+      "Purchase Management Foundation",
+      "Inventory Foundation",
+      "Accounting Foundation",
+      "GST Foundation",
+      "Executive Dashboard Foundation",
+      "Business Intelligence Foundation",
+      "Automatic Backup Architecture"
+    ]
+  }
+]
