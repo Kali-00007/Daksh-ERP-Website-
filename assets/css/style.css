@@ -1227,5 +1227,23 @@ td {
   .faq-tools {
     grid-template-columns: 1fr;
   }
+.release-timeline {
+  display: grid;
+  gap: 18px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.release-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 28px;
+  box-shadow: var(--shadow-soft);
+}
+
+.release-card h3 {
+  margin: 16px 0 8px;
+  font-size: 28px;
 }
 }
