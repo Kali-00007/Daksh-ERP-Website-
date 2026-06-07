@@ -1,0 +1,30 @@
+{
+  "product_name": "Daksh ERP",
+
+  "latest_version": "1.0.0",
+
+  "build_type": "Testing Build",
+
+  "installer_size": "Update Later",
+
+  "operating_system": "Windows 10 / Windows 11",
+
+  "architecture": "64-bit",
+
+  "database": "SQLite",
+
+  "internet_requirement": "Not required for daily operation",
+
+  "download_url": "downloads/DakshERP_Setup.exe",
+
+  "total_downloads": 0,
+
+  "release_date": "2026-06-06",
+
+  "notes": [
+    "Offline-first ERP architecture.",
+    "Business data remains under user control.",
+    "Automatic backup architecture included.",
+    "Future updates will be delivered through the update channel."
+  ]
+}
