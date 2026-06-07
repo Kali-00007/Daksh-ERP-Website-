@@ -1,0 +1,14 @@
+{
+  "current_version": "1.0.0",
+  "release_date": "2026-06-06",
+  "build_type": "Testing Build",
+  "installer_size": "To Be Updated",
+  "minimum_supported_version": "1.0.0",
+  "download_url": "downloads/DakshERP_Setup.exe",
+  "release_notes": [
+    "Initial testing release.",
+    "Billing, Purchase, Inventory and Accounting foundations included.",
+    "GST workflows enabled.",
+    "Dashboard foundation available."
+  ]
+}
