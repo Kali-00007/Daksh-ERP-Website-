@@ -230,5 +230,212 @@
     "category": "Accounting",
     "question": "Does Daksh ERP support Balance Sheet reporting?",
     "answer": "Yes. Balance Sheet reports are supported."
-  }
+  },
+{
+  "category": "GST",
+  "question": "Does Daksh ERP support GST calculations?",
+  "answer": "Yes. Daksh ERP supports GST tax calculations including CGST, SGST and IGST workflows depending on transaction requirements."
+},
+{
+  "category": "GST",
+  "question": "Can GST information appear on invoices?",
+  "answer": "Yes. GST details can be displayed on invoices along with tax breakup and business information."
+},
+{
+  "category": "GST",
+  "question": "Does Daksh ERP support HSN reporting?",
+  "answer": "Yes. HSN-based information can be maintained and used in GST-oriented reports and documents."
+},
+{
+  "category": "GST",
+  "question": "Is GST reporting available?",
+  "answer": "Yes. Daksh ERP includes GST-focused reporting and review workflows."
+},
+{
+  "category": "GST",
+  "question": "Does Daksh ERP support GSTR-1 workflows?",
+  "answer": "Yes. Daksh ERP includes a GSTR-1 foundation designed to organize GST transaction data in a structured manner."
+},
+{
+  "category": "GST",
+  "question": "Can GST liability be monitored?",
+  "answer": "Yes. GST visibility tools help users review tax-related information from business transactions."
+},
+
+{
+  "category": "GSTR-2B",
+  "question": "Does Daksh ERP support GSTR-2B reconciliation?",
+  "answer": "Yes. Daksh ERP includes a GSTR-2B reconciliation foundation that helps compare GST portal data with purchase records."
+},
+{
+  "category": "GSTR-2B",
+  "question": "Can I import GSTR-2B Excel files?",
+  "answer": "Yes. GSTR-2B Excel import workflows are supported."
+},
+{
+  "category": "GSTR-2B",
+  "question": "Can purchase records be matched against GSTR-2B?",
+  "answer": "Yes. Matching workflows help identify similarities and differences between purchase records and imported GSTR-2B data."
+},
+{
+  "category": "GSTR-2B",
+  "question": "Can Daksh ERP identify missing invoices?",
+  "answer": "Yes. Reconciliation workflows help identify records that may be missing in books or imported GST data."
+},
+{
+  "category": "GSTR-2B",
+  "question": "Can ITC risk be reviewed?",
+  "answer": "Yes. Reconciliation tools help highlight potential ITC review areas."
+},
+
+{
+  "category": "Backup",
+  "question": "Does Daksh ERP create backups automatically?",
+  "answer": "Daksh ERP includes backup workflows designed to reduce manual backup effort and improve recovery readiness."
+},
+{
+  "category": "Backup",
+  "question": "Where are backups stored?",
+  "answer": "Backup locations depend on system configuration and can be reviewed through backup management settings."
+},
+{
+  "category": "Backup",
+  "question": "Can multiple backup locations be used?",
+  "answer": "The backup architecture supports primary and secondary backup location concepts for additional protection."
+},
+{
+  "category": "Backup",
+  "question": "Can backups help recover data after system issues?",
+  "answer": "Backups are intended to support recovery workflows and reduce the impact of unexpected problems."
+},
+{
+  "category": "Backup",
+  "question": "Should I still keep external backups?",
+  "answer": "Yes. Maintaining additional backup copies is considered a good business practice."
+},
+
+{
+  "category": "Licensing",
+  "question": "What plans are available?",
+  "answer": "Daksh ERP offers Basic, Professional and future Enterprise editions."
+},
+{
+  "category": "Licensing",
+  "question": "Is Basic a lifetime plan?",
+  "answer": "Yes. Basic is designed as a lifetime plan with included update and support terms as defined by the current pricing policy."
+},
+{
+  "category": "Licensing",
+  "question": "What does the Professional plan include?",
+  "answer": "Professional includes advanced ERP workflows such as sales, purchase, inventory, accounting, GST and dashboard-related capabilities."
+},
+{
+  "category": "Licensing",
+  "question": "Will my data be deleted after Professional expiry?",
+  "answer": "No. Historical records remain available according to the licensing policy."
+},
+{
+  "category": "Licensing",
+  "question": "Can I still view old Professional records after expiry?",
+  "answer": "Yes. Historical records remain accessible for review."
+},
+{
+  "category": "Licensing",
+  "question": "Can I print old records after expiry?",
+  "answer": "Yes. Existing records remain available for printing according to the licensing policy."
+},
+{
+  "category": "Licensing",
+  "question": "Can I export old records after expiry?",
+  "answer": "Yes. Historical records remain available for export according to the licensing policy."
+},
+{
+  "category": "Licensing",
+  "question": "What becomes restricted after Professional expiry?",
+  "answer": "Creation of new records in Professional-only modules becomes restricted while historical information remains accessible."
+},
+
+{
+  "category": "Updates",
+  "question": "How will future updates be delivered?",
+  "answer": "Daksh ERP updates can be distributed through the official website and update channel architecture."
+},
+{
+  "category": "Updates",
+  "question": "Will I need to reinstall the software every time?",
+  "answer": "The planned update architecture is designed to simplify future software updates."
+},
+{
+  "category": "Updates",
+  "question": "Can update information be viewed online?",
+  "answer": "Yes. Release notes and version information can be published through the website."
+},
+{
+  "category": "Updates",
+  "question": "Can update packages be downloaded from the website?",
+  "answer": "Yes. The website is designed to serve as a download and update distribution channel."
+},
+
+{
+  "category": "Pricing",
+  "question": "Can pricing change in future?",
+  "answer": "Yes. Pricing may change over time based on business decisions and product evolution."
+},
+{
+  "category": "Pricing",
+  "question": "Where can I see current pricing?",
+  "answer": "Current pricing information is available on the Pricing page of the official website."
+},
+{
+  "category": "Pricing",
+  "question": "Can plan features change in future versions?",
+  "answer": "Features and plan structures may evolve as the software grows and new capabilities are introduced."
+},
+
+{
+  "category": "Data Safety",
+  "question": "Who owns the business data created in Daksh ERP?",
+  "answer": "Business data belongs to the user and remains under the user's control within the installed software environment."
+},
+{
+  "category": "Data Safety",
+  "question": "Does the website store my business records?",
+  "answer": "No. The website is intended for product information, documentation, downloads and updates."
+},
+{
+  "category": "Data Safety",
+  "question": "Can I keep my data on my own system?",
+  "answer": "Yes. Daksh ERP follows an offline-first approach designed around local data ownership."
+},
+{
+  "category": "Data Safety",
+  "question": "Can data be backed up before updates?",
+  "answer": "Yes. Creating backups before major software changes is always recommended."
+},
+
+{
+  "category": "Support",
+  "question": "How can I contact support?",
+  "answer": "Support contact information is available on the Contact page of the official website."
+},
+{
+  "category": "Support",
+  "question": "Can I request a demo?",
+  "answer": "Yes. Demo and product inquiry requests can be submitted through the contact channels provided."
+},
+{
+  "category": "Support",
+  "question": "Can I report issues or bugs?",
+  "answer": "Yes. Feedback, bug reports and improvement suggestions can be shared through official support channels."
+},
+{
+  "category": "Support",
+  "question": "Can I suggest new features?",
+  "answer": "Yes. Product feedback and feature suggestions are welcome and may help guide future development."
+},
+{
+  "category": "Support",
+  "question": "Where can I find product documentation?",
+  "answer": "The Documentation section of the website provides handbook access and product information."
+}
 ]
