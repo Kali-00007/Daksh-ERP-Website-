@@ -1,27 +1,649 @@
-<!doctype html><html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<!doctype html>
+<html lang="en" data-theme="light">
+
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <title>Invoice Design Studio | Daksh ERP</title>
-<meta name="description" content="Daksh ERP official website. Offline-first Indian GST ERP for billing, inventory, accounting, GST and business intelligence.">
+
+<meta
+name="description"
+content="Professional invoice design studio with A4, A5, thermal billing, GST invoices, quotations, proforma invoices, delivery challans, credit notes and debit notes.">
+
 <link rel="stylesheet" href="assets/css/style.css">
-</head><body>
-<header class="nav"><div class="container nav-inner">
-  <a class="brand" href="index.html"><div class="logo">D</div><div>Daksh ERP<small>Intelligent • Connected • Reliable</small></div></a>
-  <nav class="menu">
-    <a href="index.html" data-i18n="nav_home">Home</a><a href="features.html" data-i18n="nav_features">Features</a><a href="invoices.html" data-i18n="nav_invoices">Invoices</a><a href="accounting.html">Accounting</a><a href="intelligence.html">Intelligence</a><a href="pricing.html" data-i18n="nav_pricing">Pricing</a><a href="download.html" data-i18n="nav_download">Download</a><a href="faq.html" data-i18n="nav_faq">FAQ</a>
-  </nav>
-  <div class="controls"><button class="toggle" data-lang-toggle>हिन्दी</button><button class="toggle" data-theme-toggle>🌙 Dark</button></div>
-</div></header>
 
-<section class="section"><div class="container"><div class="section-head"><span class="badge">Invoice Design Studio</span><h2>Professional business documents for every print workflow</h2><p>Daksh ERP supports multiple invoice formats and document types so businesses can print clean, GST-ready documents according to their daily needs.</p></div>
-<div class="cards"><article class="card"><div class="icon">📄</div><h3>A4 & A5 Invoices</h3><p>Professional GST invoice formats for wholesalers, traders, distributors and accountants who need detailed tax and business presentation.</p></article><article class="card"><div class="icon">🧾</div><h3>3 inch & 4 inch Thermal</h3><p>Thermal print support for retail and POS-style workflows where fast compact printing is required.</p></article><article class="card"><div class="icon">🎨</div><h3>Multiple Templates</h3><p>Standard GST, Premium Corporate, Modern Sidebar and Designer Texture style presentation with future template expansion.</p></article></div>
-</div></section>
-<section class="section"><div class="container split"><div class="card"><h2>Documents Supported</h2><ul class="checks"><li>GST Tax Invoice</li><li>Quotation</li><li>Proforma Invoice</li><li>Delivery Challan</li><li>Credit Note</li><li>Debit Note</li></ul></div><div class="card"><h2>Branding & Controls</h2><ul class="checks"><li>Business logo</li><li>Signature / stamp</li><li>UPI QR code</li><li>Bank details</li><li>Terms and notes</li><li>Financial-year-wise numbering</li></ul></div></div></section>
+</head>
 
-<footer class="footer"><div class="container footer-grid">
-  <div><h3>Daksh ERP</h3><p>Professional enough for accountants. Simple enough for business owners.</p></div>
-  <div><h4>Product</h4><a href="features.html">Features</a><a href="invoices.html">Invoice Studio</a><a href="pricing.html">Pricing</a></div>
-  <div><h4>Resources</h4><a href="documentation.html">Documentation</a><a href="releases.html">Release Notes</a><a href="faq.html">FAQ</a></div>
-  <div><h4>Support</h4><a href="download.html">Download</a><a href="contact.html">Contact</a><a href="updates/version.json">Update JSON</a></div>
-</div></footer>
+<body>
+
+<header class="site-header">
+
+<div class="container nav-shell">
+
+<a class="brand" href="index.html">
+
+<span class="brand-mark">D</span>
+
+<span>
+
+<strong>Daksh <em>ERP</em></strong>
+
+<small>
+Where Excellence Meets Intelligence
+</small>
+
+</span>
+
+</a>
+
+<button
+class="mobile-menu-btn"
+id="mobileMenuButton">
+☰
+</button>
+
+<nav
+class="main-nav"
+id="mainNavigation">
+
+<a href="index.html">Home</a>
+<a href="features.html">Features</a>
+<a href="invoices.html" class="active">Invoices</a>
+<a href="accounting.html">Accounting</a>
+<a href="intelligence.html">Intelligence</a>
+<a href="pricing.html">Pricing</a>
+<a href="download.html">Download</a>
+
+</nav>
+
+<div class="nav-actions">
+
+<button
+id="languageToggle"
+class="chip-btn">
+हिन्दी
+</button>
+
+<button
+id="themeToggle"
+class="chip-btn">
+🌙
+</button>
+
+</div>
+
+</div>
+
+</header>
+
+<main>
+
+<!-- ========================================= -->
+<!-- HERO -->
+<!-- ========================================= -->
+
+<section class="hero-section">
+
+<div class="container">
+
+<div class="section-heading">
+
+<span class="section-tag">
+
+Invoice Design Studio
+
+</span>
+
+<h1>
+
+Professional Documents
+For Modern Businesses
+
+</h1>
+
+<p>
+
+Create invoices and business documents
+that reflect your brand,
+support your workflow
+and remain ready for GST operations.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- PRINT FORMATS -->
+<!-- ========================================= -->
+
+<section class="section">
+
+<div class="container">
+
+<div class="section-heading">
+
+<span class="section-tag">
+Print Formats
+</span>
+
+<h2>
+Built for Different Business Environments
+</h2>
+
+<p>
+
+Whether you use detailed invoices
+or thermal retail billing,
+Daksh ERP supports multiple formats.
+
+</p>
+
+</div>
+
+<div class="card-grid four">
+
+<div class="feature-card">
+
+<div class="icon">📄</div>
+
+<h3>A4 Invoice</h3>
+
+<p>
+
+Detailed GST invoice layouts
+with full business information.
+
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<div class="icon">📑</div>
+
+<h3>A5 Invoice</h3>
+
+<p>
+
+Compact professional invoices
+for businesses preferring smaller prints.
+
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<div class="icon">🧾</div>
+
+<h3>3 Inch Thermal</h3>
+
+<p>
+
+Retail-friendly thermal billing format.
+
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<div class="icon">🖨️</div>
+
+<h3>4 Inch Thermal</h3>
+
+<p>
+
+Enhanced thermal format with
+additional information visibility.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- DOCUMENT TYPES -->
+<!-- ========================================= -->
+
+<section class="section soft">
+
+<div class="container">
+
+<div class="section-heading">
+
+<span class="section-tag">
+Business Documents
+</span>
+
+<h2>
+More Than Just Invoices
+</h2>
+
+<p>
+
+Support different stages of the
+sales and delivery workflow.
+
+</p>
+
+</div>
+
+<div class="card-grid three">
+
+<div class="feature-card">
+<h3>GST Tax Invoice</h3>
+<p>Professional GST-compliant billing.</p>
+</div>
+
+<div class="feature-card">
+<h3>Quotation</h3>
+<p>Create and share customer quotations.</p>
+</div>
+
+<div class="feature-card">
+<h3>Proforma Invoice</h3>
+<p>Generate pre-sale business documents.</p>
+</div>
+
+<div class="feature-card">
+<h3>Delivery Challan</h3>
+<p>Track goods movement and delivery records.</p>
+</div>
+
+<div class="feature-card">
+<h3>Credit Note</h3>
+<p>Handle returns and billing adjustments.</p>
+</div>
+
+<div class="feature-card">
+<h3>Debit Note</h3>
+<p>Manage commercial corrections and revisions.</p>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- TEMPLATE GALLERY -->
+<!-- ========================================= -->
+
+<section class="section">
+
+<div class="container">
+
+<div class="section-heading">
+
+<span class="section-tag">
+Template Styles
+</span>
+
+<h2>
+Invoice Templates
+Designed for Different Preferences
+</h2>
+
+<p>
+
+Choose the style that best represents
+your business.
+
+</p>
+
+</div>
+
+<div class="card-grid four">
+
+<div class="feature-card">
+
+<div class="icon">📘</div>
+
+<h3>Standard GST Full</h3>
+
+<p>
+
+Balanced GST-focused layout
+for general business usage.
+
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<div class="icon">🏢</div>
+
+<h3>Premium Corporate</h3>
+
+<p>
+
+Professional business presentation
+with premium structure.
+
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<div class="icon">🎨</div>
+
+<h3>Modern Sidebar</h3>
+
+<p>
+
+Contemporary invoice layout
+with modern visual hierarchy.
+
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<div class="icon">✨</div>
+
+<h3>Designer Texture</h3>
+
+<p>
+
+Stylized professional presentation
+for businesses seeking unique branding.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- INVOICE CONTROLS -->
+<!-- ========================================= -->
+
+<section class="section soft">
+
+<div class="container">
+
+<div class="section-heading">
+
+<span class="section-tag">
+Customization
+</span>
+
+<h2>
+Control Every Important Detail
+</h2>
+
+</div>
+
+<div class="card-grid four">
+
+<div class="feature-card">
+<h3>Business Logo</h3>
+</div>
+
+<div class="feature-card">
+<h3>Signature / Stamp</h3>
+</div>
+
+<div class="feature-card">
+<h3>Bank Details</h3>
+</div>
+
+<div class="feature-card">
+<h3>UPI QR Code</h3>
+</div>
+
+<div class="feature-card">
+<h3>Terms & Conditions</h3>
+</div>
+
+<div class="feature-card">
+<h3>Transport Details</h3>
+</div>
+
+<div class="feature-card">
+<h3>HSN Visibility</h3>
+</div>
+
+<div class="feature-card">
+<h3>GST Breakdown</h3>
+</div>
+
+<div class="feature-card">
+<h3>Print Profiles</h3>
+</div>
+
+<div class="feature-card">
+<h3>Copy Modes</h3>
+</div>
+
+<div class="feature-card">
+<h3>Density Modes</h3>
+</div>
+
+<div class="feature-card">
+<h3>FY-wise Numbering</h3>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- WHY IT MATTERS -->
+<!-- ========================================= -->
+
+<section class="section">
+
+<div class="container split-grid">
+
+<div>
+
+<span class="section-tag">
+Professional Presentation
+</span>
+
+<h2>
+
+Your Documents
+Represent Your Business
+
+</h2>
+
+<p>
+
+Invoices are often one of the most visible
+documents your customers receive.
+
+A clear,
+professional and well-structured document
+helps create confidence and trust.
+
+</p>
+
+</div>
+
+<div class="trust-panel">
+
+<div>
+
+<strong>Professional Appearance</strong>
+
+<span>
+
+Present business information clearly.
+
+</span>
+
+</div>
+
+<div>
+
+<strong>GST Ready</strong>
+
+<span>
+
+Structured tax information visibility.
+
+</span>
+
+</div>
+
+<div>
+
+<strong>Multiple Print Formats</strong>
+
+<span>
+
+Support different operational needs.
+
+</span>
+
+</div>
+
+<div>
+
+<strong>Flexible Branding</strong>
+
+<span>
+
+Logo,
+signature,
+bank details and QR support.
+
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- CTA -->
+<!-- ========================================= -->
+
+<section class="section cta-section">
+
+<div class="container">
+
+<h2>
+
+Explore Invoice Design Studio
+
+</h2>
+
+<p>
+
+Download Daksh ERP
+and experience the invoice ecosystem.
+
+</p>
+
+<div class="hero-actions center">
+
+<a
+class="btn btn-primary"
+href="download.html">
+
+Download Daksh ERP
+
+</a>
+
+<a
+class="btn btn-outline"
+href="features.html">
+
+Explore Features
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+</main>
+
+<footer class="site-footer">
+
+<div class="container footer-grid">
+
+<div>
+
+<h3>Daksh ERP</h3>
+
+<p>
+
+Offline-first Indian GST ERP for billing,
+inventory,
+accounting,
+GST compliance
+and business intelligence.
+
+</p>
+
+</div>
+
+<div>
+
+<h4>Product</h4>
+
+<a href="features.html">Features</a>
+<a href="invoices.html">Invoices</a>
+<a href="accounting.html">Accounting</a>
+
+</div>
+
+<div>
+
+<h4>Resources</h4>
+
+<a href="documentation.html">Documentation</a>
+<a href="faq.html">FAQ</a>
+<a href="download.html">Download</a>
+
+</div>
+
+<div>
+
+<h4>Company</h4>
+
+<a href="contact.html">Contact</a>
+<a href="privacy.html">Privacy</a>
+<a href="terms.html">Terms</a>
+
+</div>
+
+</div>
+
+</footer>
+
 <script src="assets/js/app.js"></script>
-</body></html>
+
+</body>
+</html>
