@@ -1,0 +1,73 @@
+{
+  "brand": {
+    "name": "Daksh ERP",
+    "short_name": "Daksh",
+    "tagline": "Where Excellence Meets Intelligence",
+    "philosophy": "Professional enough for accountants. Simple enough for business owners.",
+    "description": "An offline-first Indian GST ERP for billing, sales, purchase, inventory, accounting, GST compliance, backup and business intelligence.",
+    "logo_text": "D"
+  },
+
+  "contact": {
+    "email": "contact@example.com",
+    "phone": "+91-00000-00000",
+    "whatsapp": "+91-00000-00000",
+    "address": "India",
+    "support_hours": "To be updated"
+  },
+
+  "social": {
+    "website": "",
+    "youtube": "",
+    "linkedin": "",
+    "facebook": "",
+    "instagram": "",
+    "x": ""
+  },
+
+  "cta": {
+    "primary": "Download Daksh ERP",
+    "secondary": "Explore Features",
+    "documentation": "Read Documentation",
+    "contact": "Contact Support",
+    "demo": "Request Demo"
+  },
+
+  "downloads": {
+    "installer_path": "downloads/DakshERP_Setup.exe",
+    "handbook_path": "docs/Daksh_ERP_Handbook_2026.pdf",
+    "update_json_path": "updates/version.json"
+  },
+
+  "seo": {
+    "title": "Daksh ERP — Offline-first Indian GST ERP",
+    "description": "Daksh ERP is a modern offline-first Indian GST ERP for billing, inventory, accounting, GST compliance, backup and business intelligence.",
+    "keywords": [
+      "Daksh ERP",
+      "GST Billing Software",
+      "Indian ERP",
+      "Offline ERP",
+      "Inventory Software",
+      "Accounting Software",
+      "GST Software",
+      "Invoice Software"
+    ]
+  },
+
+  "product_highlights": [
+    "Offline-first ERP architecture",
+    "Modern user interface",
+    "GST-ready billing workflows",
+    "A4, A5 and thermal invoice support",
+    "Connected inventory and accounting",
+    "Automatic backup architecture",
+    "Business intelligence dashboard",
+    "Hindi and English website support"
+  ],
+
+  "legal": {
+    "copyright": "© 2026 Daksh ERP. All rights reserved.",
+    "privacy_page": "privacy.html",
+    "terms_page": "terms.html"
+  }
+}
