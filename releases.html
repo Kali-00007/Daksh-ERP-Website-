@@ -1,24 +1,281 @@
-<!doctype html><html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<!doctype html>
+<html lang="en" data-theme="light">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <title>Release Notes | Daksh ERP</title>
-<meta name="description" content="Daksh ERP official website. Offline-first Indian GST ERP for billing, inventory, accounting, GST and business intelligence.">
+
+<meta
+name="description"
+content="Daksh ERP release notes, version history, update information and software improvement records.">
+
 <link rel="stylesheet" href="assets/css/style.css">
-</head><body>
-<header class="nav"><div class="container nav-inner">
-  <a class="brand" href="index.html"><div class="logo">D</div><div>Daksh ERP<small>Intelligent • Connected • Reliable</small></div></a>
-  <nav class="menu">
-    <a href="index.html" data-i18n="nav_home">Home</a><a href="features.html" data-i18n="nav_features">Features</a><a href="invoices.html" data-i18n="nav_invoices">Invoices</a><a href="accounting.html">Accounting</a><a href="intelligence.html">Intelligence</a><a href="pricing.html" data-i18n="nav_pricing">Pricing</a><a href="download.html" data-i18n="nav_download">Download</a><a href="faq.html" data-i18n="nav_faq">FAQ</a>
-  </nav>
-  <div class="controls"><button class="toggle" data-lang-toggle>हिन्दी</button><button class="toggle" data-theme-toggle>🌙 Dark</button></div>
-</div></header>
+</head>
 
-<section class="section"><div class="container"><div class="section-head"><span class="badge">Release Notes</span><h2>Version history and update information</h2><p>Release notes are editable through JSON.</p></div><div id="release-list" class="cards"></div></div></section>
+<body>
 
-<footer class="footer"><div class="container footer-grid">
-  <div><h3>Daksh ERP</h3><p>Professional enough for accountants. Simple enough for business owners.</p></div>
-  <div><h4>Product</h4><a href="features.html">Features</a><a href="invoices.html">Invoice Studio</a><a href="pricing.html">Pricing</a></div>
-  <div><h4>Resources</h4><a href="documentation.html">Documentation</a><a href="releases.html">Release Notes</a><a href="faq.html">FAQ</a></div>
-  <div><h4>Support</h4><a href="download.html">Download</a><a href="contact.html">Contact</a><a href="updates/version.json">Update JSON</a></div>
-</div></footer>
+<header class="site-header">
+<div class="container nav-shell">
+
+<a class="brand" href="index.html">
+<span class="brand-mark">D</span>
+<span>
+<strong>Daksh <em>ERP</em></strong>
+<small>Where Excellence Meets Intelligence</small>
+</span>
+</a>
+
+<button class="mobile-menu-btn" id="mobileMenuButton">☰</button>
+
+<nav class="main-nav" id="mainNavigation">
+<a href="index.html">Home</a>
+<a href="features.html">Features</a>
+<a href="invoices.html">Invoices</a>
+<a href="accounting.html">Accounting</a>
+<a href="intelligence.html">Intelligence</a>
+<a href="pricing.html">Pricing</a>
+<a href="download.html">Download</a>
+</nav>
+
+<div class="nav-actions">
+<button id="languageToggle" class="chip-btn">हिन्दी</button>
+<button id="themeToggle" class="chip-btn">🌙</button>
+</div>
+
+</div>
+</header>
+
+<main>
+
+<section class="hero-section">
+<div class="container">
+<div class="section-heading">
+<span class="section-tag">Release Notes</span>
+<h1>Version history and update information</h1>
+<p>
+Track Daksh ERP builds, improvements, fixes and future update information from one place.
+</p>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container split-grid">
+
+<div class="info-card">
+<span class="section-tag">Current Version</span>
+<h2 id="currentVersion">1.0.0</h2>
+<p id="currentBuildType">Testing Build</p>
+
+<ul class="tick-list" id="currentReleaseNotes">
+<li>Initial testing release.</li>
+<li>Billing, purchase, inventory and accounting foundations included.</li>
+<li>GST workflows enabled.</li>
+</ul>
+</div>
+
+<div>
+<span class="section-tag">Update Channel</span>
+<h2>Future updater support</h2>
+<p>
+Daksh ERP website includes an update endpoint that can be used by the software updater to check the latest available build.
+</p>
+
+<ul class="tick-list">
+<li>Latest version number</li>
+<li>Download URL</li>
+<li>Minimum required version</li>
+<li>Release notes</li>
+<li>Force update flag</li>
+</ul>
+
+<a class="btn btn-outline" href="updates/version.json">
+Open Update JSON
+</a>
+</div>
+
+</div>
+</section>
+
+<section class="section soft">
+<div class="container">
+
+<div class="section-heading">
+<span class="section-tag">Release Timeline</span>
+<h2>Software Improvement History</h2>
+<p>
+Release notes help users understand what changed before installing updates.
+</p>
+</div>
+
+<div id="releaseTimeline" class="release-timeline">
+<div class="notice-box">Loading release notes...</div>
+</div>
+
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+
+<div class="section-heading">
+<span class="section-tag">Update Safety</span>
+<h2>Recommended update practice</h2>
+<p>
+Before any major update, users should keep backups and review release notes.
+</p>
+</div>
+
+<div class="card-grid four">
+
+<div class="feature-card">
+<div class="icon">💾</div>
+<h3>Backup First</h3>
+<p>Always keep a recent backup before major updates.</p>
+</div>
+
+<div class="feature-card">
+<div class="icon">📋</div>
+<h3>Read Notes</h3>
+<p>Review new features, fixes and known changes.</p>
+</div>
+
+<div class="feature-card">
+<div class="icon">🔐</div>
+<h3>Use Official Builds</h3>
+<p>Download updates only from official sources.</p>
+</div>
+
+<div class="feature-card">
+<div class="icon">✅</div>
+<h3>Verify Version</h3>
+<p>Confirm the installed version after updating.</p>
+</div>
+
+</div>
+
+</div>
+</section>
+
+<section class="section cta-section">
+<div class="container">
+<h2>Download the latest Daksh ERP build.</h2>
+<p>
+Use the Download Center to get the latest available installer.
+</p>
+
+<div class="hero-actions center">
+<a class="btn btn-primary" href="download.html">Download Daksh ERP</a>
+<a class="btn btn-outline" href="documentation.html">Read Documentation</a>
+</div>
+</div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+<div class="container footer-grid">
+
+<div>
+<h3>Daksh ERP</h3>
+<p>
+Offline-first Indian GST ERP for billing, inventory, accounting, GST compliance and business intelligence.
+</p>
+</div>
+
+<div>
+<h4>Product</h4>
+<a href="features.html">Features</a>
+<a href="invoices.html">Invoices</a>
+<a href="accounting.html">Accounting</a>
+</div>
+
+<div>
+<h4>Resources</h4>
+<a href="documentation.html">Documentation</a>
+<a href="faq.html">FAQ</a>
+<a href="download.html">Download</a>
+</div>
+
+<div>
+<h4>Company</h4>
+<a href="contact.html">Contact</a>
+<a href="privacy.html">Privacy</a>
+<a href="terms.html">Terms</a>
+</div>
+
+</div>
+</footer>
+
 <script src="assets/js/app.js"></script>
-</body></html>
+
+<script>
+async function loadReleasePage() {
+  await loadCurrentVersion();
+  await loadReleaseTimeline();
+}
+
+async function loadCurrentVersion() {
+  try {
+    const response = await fetch("updates/version.json");
+    const data = await response.json();
+
+    document.getElementById("currentVersion").textContent =
+      data.latest_version || "1.0.0";
+
+    document.getElementById("currentBuildType").textContent =
+      data.build_type || "Testing Build";
+
+    const notes = document.getElementById("currentReleaseNotes");
+
+    if (Array.isArray(data.release_notes)) {
+      notes.innerHTML = data.release_notes
+        .map(note => `<li>${note}</li>`)
+        .join("");
+    } else if (data.release_notes) {
+      notes.innerHTML = `<li>${data.release_notes}</li>`;
+    }
+  } catch (error) {
+    console.log("Current version information unavailable.");
+  }
+}
+
+async function loadReleaseTimeline() {
+  const container = document.getElementById("releaseTimeline");
+
+  try {
+    const response = await fetch("data/releases.json");
+    const releases = await response.json();
+
+    if (!Array.isArray(releases) || releases.length === 0) {
+      container.innerHTML =
+        '<div class="notice-box">No release notes available.</div>';
+      return;
+    }
+
+    container.innerHTML = releases.map(release => `
+      <article class="release-card">
+        <span class="section-tag">${release.date || "Date pending"}</span>
+        <h3>${release.version || "Version"}</h3>
+        <p>${release.title || release.type || "Release Update"}</p>
+        <ul class="tick-list">
+          ${(release.items || release.notes || [])
+            .map(item => `<li>${item}</li>`)
+            .join("")}
+        </ul>
+      </article>
+    `).join("");
+
+  } catch (error) {
+    container.innerHTML =
+      '<div class="notice-box">Release notes could not be loaded.</div>';
+  }
+}
+
+loadReleasePage();
+</script>
+
+</body>
+</html>
