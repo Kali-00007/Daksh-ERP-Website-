@@ -1,0 +1,36 @@
+{
+  "product": "Daksh ERP",
+
+  "latest_version": "1.0.0",
+
+  "build_type": "Testing Build",
+
+  "release_date": "2026-06-07",
+
+  "minimum_supported_version": "1.0.0",
+
+  "force_update": false,
+
+  "download_url": "https://your-domain.com/downloads/DakshERP_Setup.exe",
+
+  "release_notes": [
+    "Professional GST Billing",
+    "Purchase Management",
+    "Inventory Management",
+    "Accounting Engine",
+    "GST Foundation",
+    "Dashboard Foundation",
+    "Business Intelligence Foundation",
+    "Backup Architecture"
+  ],
+
+  "sha256": "",
+
+  "installer_size_mb": "",
+
+  "handbook_url": "https://your-domain.com/docs/Daksh_ERP_Handbook_2026.pdf",
+
+  "release_notes_url": "https://your-domain.com/releases.html",
+
+  "support_url": "https://your-domain.com/contact.html"
+}
