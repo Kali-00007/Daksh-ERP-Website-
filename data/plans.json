@@ -1,0 +1,92 @@
+[
+  {
+    "id": "basic",
+    "name": "Basic",
+    "badge": "Lifetime Edition",
+    "price": "₹9,999",
+    "billing": "One-Time Payment",
+    "highlight": false,
+    "description": "Essential GST billing tools for businesses that need professional invoicing and master management.",
+    "features": [
+      "GST Invoicing",
+      "Invoice Manager",
+      "Party Master",
+      "HSN Master",
+      "Item Master",
+      "Quotations",
+      "Credit Notes",
+      "Debit Notes",
+      "Reports",
+      "Invoice Designing",
+      "A4 Invoice Formats",
+      "A5 Invoice Formats",
+      "3 Inch Thermal Printing",
+      "4 Inch Thermal Printing",
+      "UPI QR Support",
+      "Business Logo Support",
+      "Signature Support",
+      "Financial Year Numbering"
+    ],
+    "footer_note": "Includes 1 year updates and support."
+  },
+
+  {
+    "id": "professional",
+    "name": "Professional",
+    "badge": "Most Popular",
+    "price": "₹5,999",
+    "billing": "Per Year",
+    "highlight": true,
+    "description": "Complete ERP solution with sales, purchase, inventory, accounting and GST workflows.",
+    "features": [
+      "Everything in Basic",
+      "Complete Sales Module",
+      "Sales Register",
+      "Sales Dashboard",
+      "Purchase Module",
+      "Purchase Register",
+      "Supplier Payments",
+      "Inventory Management",
+      "Stock Reports",
+      "Accounting Engine",
+      "Receipt Vouchers",
+      "Payment Vouchers",
+      "Contra Vouchers",
+      "Journal Vouchers",
+      "Cash Book",
+      "Bank Book",
+      "Ledger Statements",
+      "Trial Balance",
+      "Profit & Loss",
+      "Balance Sheet",
+      "GST Compliance Tools",
+      "GSTR-1 Foundation",
+      "GSTR-2B Reconciliation Foundation",
+      "Executive Dashboard",
+      "Business Intelligence",
+      "Automatic Backup System"
+    ],
+    "footer_note": "After subscription expiry, Basic lifetime features continue. Professional records remain accessible for viewing, printing and exporting. New entries in Professional modules become restricted."
+  },
+
+  {
+    "id": "enterprise",
+    "name": "Enterprise",
+    "badge": "Future",
+    "price": "Contact Us",
+    "billing": "Custom",
+    "highlight": false,
+    "description": "Advanced deployment and organizational features planned for future expansion.",
+    "features": [
+      "Multi-Company Roadmap",
+      "Advanced User Permissions",
+      "Centralized Administration",
+      "Custom Workflows",
+      "Advanced Reporting",
+      "Dedicated Support",
+      "Business Process Customization",
+      "Enterprise Deployment Assistance"
+    ],
+    "footer_note": "Enterprise features are part of the future roadmap."
+  }
+]
