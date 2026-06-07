@@ -1198,4 +1198,34 @@ td {
   .price-card {
     padding: 24px;
   }
+  .faq-tools {
+  display: grid;
+  grid-template-columns: 1fr 260px;
+  gap: 16px;
+  margin-bottom: 34px;
+}
+
+.faq-search,
+.faq-select {
+  width: 100%;
+  min-height: 54px;
+  padding: 0 18px;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  outline: none;
+  box-shadow: var(--shadow-soft);
+}
+
+.faq-search:focus,
+.faq-select:focus {
+  border-color: var(--accent);
+}
+
+@media (max-width: 720px) {
+  .faq-tools {
+    grid-template-columns: 1fr;
+  }
+}
 }
